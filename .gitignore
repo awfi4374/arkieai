@@ -1,0 +1,9 @@
+# 敏感内容不公开（2026-10-02）
+memory/
+scripts/
+*.key
+*.pem
+.env
+*_token*
+localdata/
+secrets/
